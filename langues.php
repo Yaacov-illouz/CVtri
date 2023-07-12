@@ -1,5 +1,12 @@
 <?php
 
+// TEST GITHUB Mis a jour
+
+function afficherBonjour(){
+    echo "Bonjour";
+}
+
+
 function extractLanguages($text) {
     // Liste des langues connues
     $languages = array("français", "anglais", "espagnol", "allemand", "italien", "hébreu");
